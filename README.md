@@ -48,7 +48,7 @@ required to complete them.
 | [Calculator](./Projects/1-Beginner/Calculator-App.md) DONE                              | Calculator                                                 | 1-Beginner |
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md) DONE                | Simulate a string of Christmas lights                      | 1-Beginner |
 | [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md) DONE                    | Click list item to display item details                    | 1-Beginner |
-| [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md)                           | Cycle a color value through incremental changes            | 1-Beginner |
+| [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md) DONE                          | Cycle a color value through incremental changes            | 1-Beginner |
 | [Countdown Timer](./Projects/1-Beginner/Countdown-Timer-App.md)                   | Event Countdown timer                                      | 1-Beginner |
 | [CSV2JSON App](./Projects/1-Beginner/CSV2JSON-App.md)                             | CSV to JSON converter                                      | 1-Beginner |
 | [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                 | Convert dollars to cents                                   | 1-Beginner |
