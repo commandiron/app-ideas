@@ -55,7 +55,7 @@ required to complete them.
 | [Dynamic CSS Variables](./Projects/1-Beginner/Dynamic-CSSVar-app.md) DONE             | Dynamically change CSS variable settings                   | 1-Beginner |
 | [First DB App](./Projects/1-Beginner/First-DB-App.md) DONE                            | Your first Database app!                                   | 1-Beginner |
 | [Flip Image](./Projects/1-Beginner/Flip-Image-App.md) DONE                            | Change the orientation of images across two axes           | 1-Beginner |
-| [GitHub Status](./Projects/1-Beginner/GitHub-Status-App.md)                       | Display Current GitHub Status                              | 1-Beginner |
+| [GitHub Status](./Projects/1-Beginner/GitHub-Status-App.md) DONE                      | Display Current GitHub Status                              | 1-Beginner |
 | [Hello](./Projects/1-Beginner/Hello-App.md)                                       | User native language greeting                              | 1-Beginner |
 | [IOT Mailbox Simulator](./Projects/1-Beginner/IOT-Mailbox-App.md)                 | Use callbacks to check your snail mail                     | 1-Beginner |
 | [JS Input Validation](./Projects/1-Beginner/Javascript-Validation-With-Regex.md)  | Script to validate inputs entered by a user using RegEx    | 1-Beginner |
