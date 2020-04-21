@@ -64,7 +64,7 @@ required to complete them.
 | [Lorem Ipsum Generator](./Projects/1-Beginner/Lorem-Ipsum-Generator.md) DONE           | Generate lorem ipsum placeholder text                      | 1-Beginner |
 | [Notes App](./Projects/1-Beginner/Notes-App.md) DONE                                   | Create an online note pad                                  | 1-Beginner |
 | [Pearson Regression](./Projects/1-Beginner/Pearson-Regression-App.md) DONE            | Calculate the correlation coefficient for two sets of data | 1-Beginner |
-| [Pomodoro Clock](./Projects/1-Beginner/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                    | 1-Beginner |
+| [Pomodoro Clock](./Projects/1-Beginner/Pomodoro-Clock.md) DONE                         | Task timer to aid personal productivity                    | 1-Beginner |
 | [Product Landing Page](./Projects/1-Beginner/Product-Landing-Page.md)             | Showcase product details for possible buyers               | 1-Beginner |
 | [Quiz App](./Projects/1-Beginner/Quiz-App.md)                                     | Test your knowledge by answering questions                 | 1-Beginner |
 | [Recipe App](./Projects/1-Beginner/Recipe-App.md)                                 | Recipe                                                     | 1-Beginner |
