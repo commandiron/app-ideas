@@ -70,7 +70,7 @@ required to complete them.
 | [Recipe App](./Projects/1-Beginner/Recipe-App.md) DONE                                 | Recipe                                                     | 1-Beginner |
 | [Random Meal Generator](./Projects/1-Beginner/Random-Meal-Generator.md) DONE           | Generate random meals                                      | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/1-Beginner/Roman-to-Decimal-Converter.md) DONE | Convert Roman to Decimal numbers                           | 1-Beginner |
-| [Slider Design](./Projects/1-Beginner/Slider-Design.md)                           | Display images using a slider control                      | 1-Beginner |
+| [Slider Design](./Projects/1-Beginner/Slider-Design.md)DONE                           | Display images using a slider control                      | 1-Beginner |
 | [Stopwatch App](./Projects/1-Beginner/Stopwatch-App.md)                           | Count time spent on activities                             | 1-Beginner |
 | [TrueOrFalse](./Projects/1-Beginner/True-or-False-App.md)                         | Identify the result of a conditional comparison            | 1-Beginner |
 | [Vigenere Cipher](./Projects/1-Beginner/Vigenere-Cipher.md)                       | Encrypt text using the Vigenere Cypher                     | 1-Beginner |
