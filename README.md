@@ -74,7 +74,7 @@ required to complete them.
 | [Stopwatch App](./Projects/1-Beginner/Stopwatch-App.md) DONE                           | Count time spent on activities                             | 1-Beginner |
 | [TrueOrFalse](./Projects/1-Beginner/True-or-False-App.md) DONE                         | Identify the result of a conditional comparison            | 1-Beginner |
 | [Vigenere Cipher](./Projects/1-Beginner/Vigenere-Cipher.md) DONE                       | Encrypt text using the Vigenere Cypher                     | 1-Beginner |
-| [Wind Chill](./Projects/1-Beginner/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature  | 1-Beginner |
+| [Wind Chill](./Projects/1-Beginner/Windchill-App.md) DONE                              | Calculate the windchill factor from an actual temperature  | 1-Beginner |
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
 | [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 
