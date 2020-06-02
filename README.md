@@ -94,7 +94,7 @@ required to complete them.
 | [Flip Art App](./Projects/2-Intermediate/Flip-Art-App.md) DONE                         | Animate a set of images                            | 2-Intermediate |
 | [Game Suggestion App](./Projects/2-Intermediate/Game-Suggestion-App.md) DONE          | Create polls to decide what games to play          | 2-Intermediate |
 | [GitHub Profiles](./Projects/2-Intermediate/GitHub-Profiles.md) DONE                   | A GitHub user search App                           | 2-Intermediate |
-| [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
+| [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md) DONE                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Image Scanner](./Projects/2-Intermediate/Image-Scaner.md)                        | Image Scanner App                                  | 2-Intermediate |
 | [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
