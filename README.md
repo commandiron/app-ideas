@@ -97,7 +97,7 @@ required to complete them.
 | [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md) DONE                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Image Scanner](./Projects/2-Intermediate/Image-Scaner.md) DONE(REGEX)                        | Image Scanner App                                  | 2-Intermediate |
 | [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md) (REGEX)            | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
-| [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
+| [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md)(REGEX)  | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [Math Editor](./Projects/2-Intermediate/math-editor.md)                           | A math editor for students to use                  | 2-Intermediate |
 | [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
 | [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)         | Generate names using names dataset                 | 2-Intermediate |
