@@ -102,7 +102,7 @@ required to complete them.
 | [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md) DONE             | Create custom memes                                | 2-Intermediate |
 | [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md) LATER        | Generate names using names dataset                 | 2-Intermediate |
 | [Password Generator](./Projects/2-Intermediate/Password-Generator.md) DONE             | Generate random passwords                          | 2-Intermediate |
-| [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
+| [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md) DONE          | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
 | [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
 | [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)                   | Record Sales Receipts in a DB                      | 2-Intermediate |
