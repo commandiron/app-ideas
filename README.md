@@ -110,7 +110,7 @@ required to complete them.
 | [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) DONE | Generate a sports bracket diagram                  | 2-Intermediate |
 | [String Art](./Projects/2-Intermediate/String-Art.md) <strong>SKIP</strong>                             | An animation of moving, colored strings            | 2-Intermediate |
 | [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md) DONE               | This or That Game                                  | 2-Intermediate |
-| [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
+| [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md) SLACKBOT              | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
 | [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
 | [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                         | 2-Intermediate |
