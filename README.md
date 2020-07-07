@@ -108,7 +108,7 @@ required to complete them.
 | [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md) DONE                   | Record Sales Receipts in a DB                      | 2-Intermediate |
 | [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md) DONE           | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) DONE | Generate a sports bracket diagram                  | 2-Intermediate |
-| [String Art](./Projects/2-Intermediate/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
+| [String Art](./Projects/2-Intermediate/String-Art.md) <strong>LATER</strong>                             | An animation of moving, colored strings            | 2-Intermediate |
 | [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md)               | This or That Game                                  | 2-Intermediate |
 | [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
