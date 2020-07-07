@@ -82,7 +82,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
-| [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md) <strong>LATER</strong>                           | Using Bit Masks for Conditions                     | 2-Intermediate |
+| [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md) <strong>SKIP</strong>                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md) DONE                  | Search for books by multiple criteria              | 2-Intermediate |
 | [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md) CL APP                   | Create a basic calculator cli.             | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md) DONE                 | Memorize and match hidden images                   | 2-Intermediate |
@@ -96,19 +96,19 @@ required to complete them.
 | [GitHub Profiles](./Projects/2-Intermediate/GitHub-Profiles.md) DONE                   | A GitHub user search App                           | 2-Intermediate |
 | [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md) DONE                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Image Scanner](./Projects/2-Intermediate/Image-Scaner.md) <strong>DONE(REGEX)</strong>                         | Image Scanner App                                  | 2-Intermediate |
-| [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md) <strong>LATER(REGEX)</strong>            | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
-| [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) <strong>LATER(REGEX)</strong>  | Convert a table into Markdown-formatted text       | 2-Intermediate |
-| [Math Editor](./Projects/2-Intermediate/math-editor.md)	<strong>LATER</strong>                          | A math editor for students to use                  | 2-Intermediate |
+| [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md) <strong>SKIP(REGEX)</strong>            | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
+| [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) <strong>SKIP(REGEX)</strong>  | Convert a table into Markdown-formatted text       | 2-Intermediate |
+| [Math Editor](./Projects/2-Intermediate/math-editor.md)	<strong>SKIP</strong>                          | A math editor for students to use                  | 2-Intermediate |
 | [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md) DONE             | Create custom memes                                | 2-Intermediate |
-| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md) <strong>LATER</strong>        | Generate names using names dataset                 | 2-Intermediate |
+| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md) <strong>SKIP</strong>        | Generate names using names dataset                 | 2-Intermediate |
 | [Password Generator](./Projects/2-Intermediate/Password-Generator.md) DONE             | Generate random passwords                          | 2-Intermediate |
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md) DONE          | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md) <strong>DONE(REGEX)</strong>         | Encode badge info in a QRcode                      | 2-Intermediate |
-| [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md) <strong>LATER(REGEX)</strong>       | Test Regular Expressions                           | 2-Intermediate |
+| [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md) <strong>SKIP(REGEX)</strong>       | Test Regular Expressions                           | 2-Intermediate |
 | [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md) DONE                   | Record Sales Receipts in a DB                      | 2-Intermediate |
 | [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md) DONE           | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) DONE | Generate a sports bracket diagram                  | 2-Intermediate |
-| [String Art](./Projects/2-Intermediate/String-Art.md) <strong>LATER</strong>                             | An animation of moving, colored strings            | 2-Intermediate |
+| [String Art](./Projects/2-Intermediate/String-Art.md) <strong>SKIP</strong>                             | An animation of moving, colored strings            | 2-Intermediate |
 | [This or That Game](./Projects/2-Intermediate/This-or-That-Game.md)               | This or That Game                                  | 2-Intermediate |
 | [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
